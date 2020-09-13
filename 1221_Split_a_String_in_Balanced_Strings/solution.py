@@ -12,5 +12,4 @@ class Solution:
                 ans += 1
                 r = 0
                 l = 0
-
         return ans
